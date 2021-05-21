@@ -1,5 +1,9 @@
 hiii
  how r u we r waiting for u
  we r very hungry
+<<<<<<< HEAD
  come fast
  we r waiting for u
+=======
+dont waste of ur time
+>>>>>>> 1fd584a8c5c0c38cab8f2ab09ffe83ef0931051b
